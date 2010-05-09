@@ -1,0 +1,16 @@
+"Gamemode"
+ {
+ 	"name"		"FortRP"
+ 	"version"		"1.0" 
+ 	"up_date"		"02/12/2006"
+ 
+ 	"author_name"	"h4rDm0d"
+ 	"author_email"	"h4rDm0d@gmail.com"
+ 	"author_url"	""
+ 
+ 	"info"		"Gamemode of civilisation in a fort."
+ 	"icon" 	 	"" // Icon to show in the Mods list inside Garry's Mod
+ 	"hide"		"0" // Do not hide this gamemode from the Mods list inside Garry's Mod
+ 	
+  }
+ 
